@@ -3,10 +3,10 @@
   "version": "2.0.0",
   "description": "",
   "homepage": "https://igor-tarasenko.com",
-"scripts": {
- "start": "parcel src/index.html",
- "build": "parcel build src/*.html --public-url /advocatapp/"
-},
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/*.html --public-url /advocate-tarasenko-app/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://https://github.com/MaksymChukhrai/advocatapp.git"
