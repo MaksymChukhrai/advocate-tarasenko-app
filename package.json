@@ -1,21 +1,21 @@
 {
-  "name": "advocatapp",
+"name": "advocate-tarasenko-app",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://igor-tarasenko.com",
+  "homepage": "https://maksymchukhrai.github.io/advocate-tarasenko-app/",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/*.html --public-url /advocate-tarasenko-app/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/MaksymChukhrai/advocatapp.git"
+    "url": "git+https://github.com/MaksymChukhrai/advocate-tarasenko-app.git"
   },
   "keywords": [],
   "author": "Maksym Chukhrai <m.chukhrai@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MaksymChukhrai/advocatapp/issues"
+    "url": "https://github.com/MaksymChukhrai/advocate-tarasenko-app/issues"
   },
   "dependencies": {
     "inputmask": "^5.0.8",
